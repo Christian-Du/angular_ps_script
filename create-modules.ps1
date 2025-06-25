@@ -1,5 +1,5 @@
 # Array of module names
-$modules = @("zusammenstellungen")
+$modules = @("zusammenstellungen", "beispiel1", "beispiel2", "beispiel3", "beispiel4")
 
 # Loop through each module name
 foreach ($module in $modules) {
